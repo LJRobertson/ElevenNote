@@ -1,0 +1,16 @@
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
