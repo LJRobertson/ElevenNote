@@ -24,7 +24,7 @@ namespace ElevenNote.Data
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("DefaultConnection", throwIfV1Schema: false)//this is what communicates with ElevenNote.WebAPI/Web.config file
         {
         }
 
@@ -34,7 +34,7 @@ namespace ElevenNote.Data
         }
 
         public DbSet<Note> Notes { get; set; }
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)//creates the settings for binding a model. 
         {
             modelBuilder
                 .Conventions
@@ -47,15 +47,15 @@ namespace ElevenNote.Data
         }
     }
 
-    public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
+    public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>//might be worth looking into how this works. Can dive into the definitions and microsoft docs.
     {
         public IdentityUserLoginConfiguration()
         {
-            HasKey(IdentityUserLogin => IdentityUserLogin.UserId);
+            HasKey(iul => iul.UserId);
         }
     }
 
-    public class IdentityUserRoleConfiguration : EntityTypeConfiguration<IdentityUserRole>
+    public class IdentityUserRoleConfiguration : EntityTypeConfiguration<IdentityUserRole>//per Simon, we are not utilizing this UserRole in ElevenNote. We're adding it out of good practice.
     {
         public IdentityUserRoleConfiguration()
         {
